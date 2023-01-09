@@ -1,2 +1,2 @@
 # Catalog_App
-App showing catalog of different item.
+Flutter Catalog App showing different items in a Catalog.
